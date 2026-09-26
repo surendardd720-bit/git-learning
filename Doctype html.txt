@@ -1,0 +1,8 @@
+<Doctype html> 
+<html>
+<trainee>
+<fullstack html>
+<trainee>
+<P> i will complete my project
+<ahref="www.google.com"</a
+<imgsrc="imge,jpg"<img>
